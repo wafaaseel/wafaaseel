@@ -78,7 +78,7 @@ I aspire to contribute to the future of tourism and aviation by transforming dat
 <p>
 <img src="https://img.shields.io/badge/Generative_AI-6E44FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-E0AAFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Learning-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-6A0DAD?style=for-the-badge"/>
 </p>
 
 ### Business & Research
