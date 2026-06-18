@@ -14,16 +14,7 @@ Passionate about leveraging Data Analytics and Artificial Intelligence to improv
 
 <br>
 
-
-
-
-
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analytics-Power_BI-F2C811?style=for-the-badge"/>
