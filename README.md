@@ -68,9 +68,9 @@ I aspire to contribute to the future of tourism and aviation by transforming dat
 
 <p>
 <img src="https://img.shields.io/badge/Excel-4B0082?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-7B2CBF?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-E6CCFF?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### AI & Emerging Technologies
