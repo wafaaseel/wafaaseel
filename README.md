@@ -18,8 +18,8 @@ Passionate about leveraging Data Analytics and Artificial Intelligence to improv
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analytics-Power_BI-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Travel_Analytics-Tourism-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Customer_Experience-CX-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Travel_Analytics-Tourism-5A189A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Customer_Experience-CX-success-6A0DAD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI_for_Tourism-In_Progress-purple?style=for-the-badge"/>
 </p>
 
