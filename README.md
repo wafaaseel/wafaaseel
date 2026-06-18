@@ -154,11 +154,15 @@ Researching ways to improve passenger experiences through data-driven insights.
 
 # 🤝 Connect With Me
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+</p>
 
-🌐 Portfolio: YOUR_PORTFOLIO_URL
 
-📧 Email: YOUR_EMAIL
+🌐 Portfolio: file:///C:/Users/HP/OneDrive/Desktop/wafa/wafa_portfolio_v4.html
+
+📧 Email: wafaaseel99@gmail.com
 
 ---
 
