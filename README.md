@@ -14,19 +14,9 @@ Passionate about leveraging Data Analytics and Artificial Intelligence to improv
 
 <br>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img width="40px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">
-    <img width="40px" alt="Portfolio" src="https://img.icons8.com/fluency/48/domain.png"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img width="40px" alt="Email" src="https://img.icons8.com/color/48/gmail-new.png"/>
-  </a>
-</p>
+
+
+
 
 <br>
 
