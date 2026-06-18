@@ -153,6 +153,40 @@ Researching ways to improve passenger experiences through data-driven insights.
 ---
 
 # 🤝 Connect With Me
+<!-- Font Awesome (ضروري للأيقونات) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+    .social-links {
+        display: flex;
+        gap: 15px;
+        margin-top: 20px;
+    }
+
+    .social-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 16px;
+        border-radius: 10px;
+        text-decoration: none;
+        font-family: Arial, sans-serif;
+        font-weight: 500;
+        color: white;
+        background: linear-gradient(135deg, #6a0dad, #b57edc); /* بنفسجي + لافندر */
+        transition: 0.3s ease;
+    }
+
+    .social-btn:hover {
+        transform: translateY(-3px);
+        opacity: 0.9;
+        box-shadow: 0 6px 15px rgba(106, 13, 173, 0.3);
+    }
+
+    .social-btn i {
+        font-size: 18px;
+    }
+</style>
 
 <div class="social-links">
 
