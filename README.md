@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wafa Aseel</h1>
 
 <h3 align="center">
-Data Analyst | Travel Experience Researcher | AI Enthusiast
+Data Analyst | Travel Experience Researcher | AI-Powered Travel Solutions
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Passionate about leveraging Data Analytics and Artificial Intelligence to improv
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Data+Analyst;Travel+Experience+Researcher;AI+for+Tourism+Enthusiast;Customer+Experience+Analytics;Turning+Data+Into+Better+Travel+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause&color=DA70D6=1200&center=true&vCenter=true&width=800&lines=Data+Analyst;Travel+Experience+Researcher;AI+for+Tourism+Enthusiast;Customer+Experience+Analytics;Turning+Data+Into+Better+Travel+Experiences" />
 </p>
 
 <br>
